@@ -1,0 +1,54 @@
+
+body{
+padding: 0;
+margin: 0;
+
+
+
+}
+
+header {
+display: grid;
+justify-content: center;
+}
+
+.formation {
+  background-color: rgb(107, 202, 202);
+  text-align: left;
+  margin: 0.1%;
+  padding: 2%;
+  border-radius: 10%;
+  border-style: solid;
+  
+    
+  }
+  
+.exppro{
+background-color: rgb(105, 167, 167);
+text-align: left;
+margin: 0.1%;
+padding: 3%;
+border-radius: 10%;
+border-style: solid;
+
+  }
+
+
+.informations{
+  text-align: center;
+  font-family: fantasy;
+  margin: 0.1%;
+  padding: 0.1%;
+  border-style: solid;
+  border-radius: 10%;
+  background-color: blanchedalmond;
+  text-decoration:none;
+  
+}
+
+.header{
+  margin: 0.5%;
+  padding: 0.5%;
+  border-style: solid;
+}
+

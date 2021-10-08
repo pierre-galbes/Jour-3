@@ -1,0 +1,55 @@
+
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: rgb(187, 255, 221); 
+	margin: 2em; 
+	padding: 0;
+    
+    flex-wrap: wrap;
+    flex-direction: row;
+	}
+
+.xp {
+        background-color: lightgrey;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+    }
+
+.skills {
+        background-color: lightgrey;
+        border: 15px solid blue;
+        padding: 50px;
+        margin: 20px;
+    }
+
+.langues {
+        background-color: lightgrey;
+
+        border: 15px solid red;
+        padding: 50px;
+        margin: 20px;
+    }    
+
+.formations {
+        background-color: lightgrey;
+
+        border: 15px solid yellow;
+        padding: 50px;
+        margin: 20px;
+    } 
+
+    header{
+        background-color: rgb(147, 231, 12);
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    footer{
+        background-color: rgb(147, 231, 12);
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
